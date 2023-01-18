@@ -1,0 +1,6 @@
+{
+  "extends": "@oabma-ui/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}
