@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/hilquiasfmelo.png',
     alt: 'Hilquias Ferreira Melo',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
