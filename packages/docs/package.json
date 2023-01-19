@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "start-storybook -p 6006",
+    "deploy-storybook": "storybook-to-ghpages",
     "build": "build-storybook"
   },
   "keywords": [],
