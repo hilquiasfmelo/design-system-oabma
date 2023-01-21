@@ -1,0 +1,2 @@
+import{A as t}from"./index-89027cb2.js";import"./index-39d17dc8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-f97499ea.js";import"./jsx-runtime-310bfdac.js";const e={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/hilquiasfmelo.png",alt:"Hilquias Ferreira Melo"},argTypes:{src:{control:{type:"text"}}}},l={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{l as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-5aa02184.js.map
